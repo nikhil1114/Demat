@@ -1,3 +1,4 @@
+// for mail
 function mail() {
     let a = document.getElementById("userName").value;
     let b = document.getElementById("contactDetail").value;
@@ -18,6 +19,7 @@ function mail() {
     );
 }
 
+// for close button
 function closeForm() {
   document.getElementById("form").style.display = "none";
 }
