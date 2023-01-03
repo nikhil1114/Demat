@@ -145,3 +145,10 @@ input.form-control {
     box-shadow: none;
     border-color: var(--brand);
 }
+.fa-sharp{
+    font-size: 30px;
+}
+.can{
+  
+    padding-left: 90%;
+}

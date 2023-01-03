@@ -18,4 +18,7 @@ function mail() {
     );
 }
 
+function closeForm() {
+  document.getElementById("form").style.display = "none";
+}
 
